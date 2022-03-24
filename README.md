@@ -2,7 +2,7 @@
 
 `front` contains webapp made in Vue with Vuetify 
 
-`api` directory holds mock server made in Express, only for testing
+`api` holds mock server made in Express, only for testing
 
 All devices are shown in a list, clicking on a row will open a window with device details. 
 Refreshing state can be done by clickin on a refresh button in top left.
